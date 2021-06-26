@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/Shaders">
+        <file alias="LightningFragmentShader">Shaders/lightingfragmentshader.frag</file>
+        <file alias="LightningVertexShader">Shaders/lightningvertexshader.vert</file>
+    </qresource>
+    <qresource prefix="/Objects">
+        <file alias="skybox">Content/skybox.obj</file>
+        <file alias="sun">Content/sun.obj</file>
+        <file alias="airplane">Content/airplane.obj</file>
+    </qresource>
+    <qresource prefix="/Textures">
+        <file alias="skybox">Content/skybox.png</file>
+        <file alias="sun">Content/star.jpg</file>
+        <file alias="sky">Content/sky.png</file>
+        <file alias="toothless">Toothless_Texture.png</file>
+        <file alias="forest">Content/forest.png</file>
+        <file alias="forest1">Content/forest1.png</file>
+        <file alias="lostember1">Content/lostember1.jpg</file>
+        <file alias="lostember2">Content/lostember2.jpg</file>
+        <file alias="lostember3">Content/lostember3.jpg</file>
+        <file alias="lostember4">Content/lostember4.jpg</file>
+        <file alias="space1">Content/space1.png</file>
+    </qresource>
+    <qresource prefix="/Music"/>
+</RCC>
