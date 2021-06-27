@@ -82,19 +82,3 @@ Contributions are what make the open source community such an amazing place to b
 3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## :cactus: To-do in the future
-
-I have these ideas in mind that either further expand the existing features or are new features themselves.
-
-### Add to existing playlist
-
-For now the app can only create a new playlist in user's Spotify account. In the future i can add feature to allow user to: 
-
-- Fetch all current playlists from Spotify account
-- Modify the existing songs in those playlist
-
-### Add Login interface
-
-Currently the app will ask user's credential when search, and then use the authorized token to access Spotify api. To-do:
- - create a login Page for better user experience
